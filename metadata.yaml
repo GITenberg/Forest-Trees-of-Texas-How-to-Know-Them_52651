@@ -1,5 +1,8 @@
 _repo: Forest-Trees-of-Texas-How-to-Know-Them_52651
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52651-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Webster, C. B. (Cyril Bertram)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '46980'
     url: http://www.gutenberg.org/2009/agents/46980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52651#Forest-Trees-of-Texas-How-to-Know-Them
 gutenberg_issued: '2016-07-26'
 gutenberg_type: Text
 identifiers:
